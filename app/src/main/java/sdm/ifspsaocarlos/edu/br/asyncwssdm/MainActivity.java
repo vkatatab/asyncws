@@ -15,8 +15,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
-    private final String ARQUIVO_IMAGEM = 'imagem.png';
-    private final String URL_BASE = 'http://www.nobile.com/';
+    private final String ARQUIVO_IMAGEM = "valide_config_firewall_utm.jpg";
+    private final String URL_BASE = "http://triplait.com/wp-content/uploads/2017/07/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

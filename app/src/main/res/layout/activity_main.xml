@@ -6,16 +6,17 @@
     android:layout_height="match_parent"
     tools:context="sdm.ifspsaocarlos.edu.br.asyncwssdm.MainActivity">
 
-    <ImageView
-        android:id="@+id/iv_imagem"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
     <Button
         android:id="@+id/bt_acessar_ws"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="acessarWs"
         android:text="Acessar"/>
+    
+    <ImageView
+        android:id="@+id/iv_imagem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 
 </LinearLayout>
